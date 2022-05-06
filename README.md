@@ -10,6 +10,16 @@
 
 [Link do projeto no ar](https://soareslil.github.io/layout_responsivo_alura/) 
 
+### ✔️📃💻 APRENDIZADOS DO PROJETO:
+
+* Entender o processo de desenvolvimento de páginas web.
+* Conheçer o Emmet, ferramenta para agilizar a escrita de códigos.
+* Como melhorar a manutenção de códigos com variáveis CSS.
+* Como escrever códigos semânticos que ajudam na acessibilidade e SEO.
+* Como lidar com adaptação de diferentes layouts.
+* Aprimorar conhecimento de responsividade.
+
+<br>
 
 __TODOS OS DIREITOS RESERVADOS A ESCOLA ALURA__
 <br> <br>
